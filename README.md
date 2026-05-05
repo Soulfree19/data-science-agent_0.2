@@ -28,7 +28,7 @@ A powerful Chinese-language AI agent for data analysis, machine learning, and sc
 ### 1. Install | 安装
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/data-science-agent.git
+git clone https://github.com/Soulfree19/data-science-agent_0.2.git
 cd data-science-agent
 pip install -r requirements.txt
 ```
